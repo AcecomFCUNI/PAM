@@ -27,4 +27,4 @@ El siguiente árbol muestra la estructura de los trabajos:
 * Cristhian Wiki, github: [HiroForYou](https://github.com/HiroForYou)
 
 ## Gracias especiales
-Muchas gracias a todos los chicos que pusieron empeño en su trabajo. Esperando que en próximos PAM's también puedan colaborar como **mentores** de forma voluntaria.
+Muchas gracias a todos los chicos que pusieron empeño en su trabajo. Esperando que en próximos PAM's también puedan colaborar como **mentores** de voluntariamente.
