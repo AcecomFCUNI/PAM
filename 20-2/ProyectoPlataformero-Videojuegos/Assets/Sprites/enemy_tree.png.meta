@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 6ec2f645043edaa4898eb4005b8f5f0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5772978578478332001
+    second: tronchungo3_0
+  - first:
+      213: 6059007985289884363
+    second: tronchungo3_1
+  - first:
+      213: 6501043370658576501
+    second: tronchungo3_2
+  - first:
+      213: 5250240309644773581
+    second: tronchungo3_3
+  - first:
+      213: 4966844316052822401
+    second: tronchungo3_4
+  - first:
+      213: 7314136127886739061
+    second: tronchungo3_5
+  - first:
+      213: -8182997869568582696
+    second: tronchungo3_6
+  - first:
+      213: -8913382528635612153
+    second: tronchungo3_7
+  - first:
+      213: 4932802625135249446
+    second: tronchungo3_8
+  - first:
+      213: -3422591654118772465
+    second: tronchungo3_9
+  - first:
+      213: 8388954313895212722
+    second: tronchungo3_10
+  - first:
+      213: 2833753142875280302
+    second: tronchungo3_11
+  - first:
+      213: 6658639519338328555
+    second: tronchungo3_12
+  - first:
+      213: 6471404901339431312
+    second: tronchungo3_13
+  - first:
+      213: -7374232581757943770
+    second: tronchungo3_14
+  - first:
+      213: 565452905289920230
+    second: tronchungo3_15
+  - first:
+      213: 6653198280292119846
+    second: tronchungo3_16
+  - first:
+      213: 9024620712221633277
+    second: tronchungo3_17
+  - first:
+      213: -7834629284164657219
+    second: tronchungo3_18
+  - first:
+      213: 6835598747983144757
+    second: tronchungo3_19
+  - first:
+      213: 1947465078647091697
+    second: tronchungo3_20
+  - first:
+      213: -5381198238419387765
+    second: tronchungo3_21
+  - first:
+      213: -6034511653064005193
+    second: tronchungo3_22
+  - first:
+      213: 6354956756008531931
+    second: tronchungo3_23
+  - first:
+      213: -2275852063302247147
+    second: tronchungo3_24
+  - first:
+      213: -8574073035407241353
+    second: tronchungo3_25
+  - first:
+      213: -8831945909938309262
+    second: tronchungo3_26
+  - first:
+      213: -88621594875482797
+    second: tronchungo3_27
+  - first:
+      213: 979064086234019201
+    second: tronchungo3_28
+  - first:
+      213: -4490839378921439740
+    second: tronchungo3_29
+  - first:
+      213: -5480517258743378171
+    second: tronchungo3_30
+  - first:
+      213: 5647870952704817384
+    second: tronchungo3_31
+  - first:
+      213: 2982736829870142447
+    second: tronchungo3_32
+  - first:
+      213: -8640445093474624563
+    second: tronchungo3_33
+  - first:
+      213: -6375686646423714575
+    second: tronchungo3_34
+  - first:
+      213: -134181453578671335
+    second: tronchungo3_35
+  - first:
+      213: -1447517095410400266
+    second: tronchungo3_36
+  - first:
+      213: -1723223892867609256
+    second: tronchungo3_37
+  - first:
+      213: -532032260786209373
+    second: tronchungo3_38
+  - first:
+      213: 3719112980907699281
+    second: tronchungo3_39
+  - first:
+      213: -6282664446824848361
+    second: tronchungo3_40
+  - first:
+      213: -5948494462667420692
+    second: tronchungo3_41
+  - first:
+      213: 885024731157092538
+    second: tronchungo3_42
+  - first:
+      213: -5184176181905311336
+    second: tronchungo3_43
+  - first:
+      213: -1126213118306842950
+    second: enemy_tree_0
+  - first:
+      213: 5220706027974655351
+    second: enemy_tree_1
+  - first:
+      213: -6568070553250339631
+    second: enemy_tree_2
+  - first:
+      213: 8043101727488422963
+    second: enemy_tree_3
+  - first:
+      213: 2222641766127442065
+    second: enemy_tree_4
+  - first:
+      213: 8078297421096288028
+    second: enemy_tree_5
+  - first:
+      213: -585982505185317707
+    second: enemy_tree_6
+  - first:
+      213: -4730009003415271442
+    second: enemy_tree_7
+  - first:
+      213: -8954359882971011904
+    second: enemy_tree_8
+  - first:
+      213: -4555028034867047423
+    second: enemy_tree_9
+  - first:
+      213: -8262433790469067124
+    second: enemy_tree_10
+  - first:
+      213: -3240049739331652665
+    second: enemy_tree_11
+  - first:
+      213: -8290917461579253201
+    second: enemy_tree_12
+  - first:
+      213: 5967616423072153889
+    second: enemy_tree_13
+  - first:
+      213: -7126778231680996264
+    second: enemy_tree_14
+  - first:
+      213: -901286672545144049
+    second: enemy_tree_15
+  - first:
+      213: 6915816762989725203
+    second: enemy_tree_16
+  - first:
+      213: 916773483824920209
+    second: enemy_tree_17
+  - first:
+      213: -1479022825691827775
+    second: enemy_tree_18
+  - first:
+      213: 3299621690495127908
+    second: enemy_tree_19
+  - first:
+      213: -6952918518357471276
+    second: enemy_tree_20
+  - first:
+      213: 1193010445353870168
+    second: enemy_tree_21
+  - first:
+      213: 5721527194085212069
+    second: enemy_tree_22
+  - first:
+      213: 8484548642101582134
+    second: enemy_tree_23
+  - first:
+      213: 34719069887809815
+    second: enemy_tree_24
+  - first:
+      213: 570838853653371918
+    second: enemy_tree_25
+  - first:
+      213: 449555699881736628
+    second: enemy_tree_26
+  - first:
+      213: 6954108769476428169
+    second: enemy_tree_27
+  - first:
+      213: -2274348076683899827
+    second: enemy_tree_28
+  - first:
+      213: 7670600379873146023
+    second: enemy_tree_29
+  - first:
+      213: 7617449578372842060
+    second: enemy_tree_30
+  - first:
+      213: 835288563800946570
+    second: enemy_tree_31
+  - first:
+      213: -1864484238396229811
+    second: enemy_tree_32
+  - first:
+      213: -2912740891205473847
+    second: enemy_tree_33
+  - first:
+      213: 1076632655890425615
+    second: enemy_tree_34
+  - first:
+      213: -5615413864308363568
+    second: enemy_tree_35
+  - first:
+      213: -9100209703089747416
+    second: enemy_tree_36
+  - first:
+      213: 8114366234558060248
+    second: enemy_tree_37
+  - first:
+      213: -4689859084228655716
+    second: enemy_tree_38
+  - first:
+      213: -1922226516662504134
+    second: enemy_tree_39
+  - first:
+      213: 93036871946571788
+    second: enemy_tree_40
+  - first:
+      213: -3591083832286402519
+    second: enemy_tree_41
+  - first:
+      213: 7968706024607308003
+    second: enemy_tree_42
+  - first:
+      213: -3846701582876663003
+    second: enemy_tree_43
+  - first:
+      213: -4193082599143560491
+    second: enemy_tree_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_tree_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 276
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68fe5c223ee50f0800000000000000
+      internalID: -1126213118306842950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 275
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7b22d87ca37840800000000000000
+      internalID: 5220706027974655351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 274
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d46fc581a689d4a0800000000000000
+      internalID: -6568070553250339631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 275
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334374f2866de9f60800000000000000
+      internalID: 8043101727488422963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ff56e24b0eb1070800000000000000
+      internalID: 8078297421096288028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 226
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce5d5240c2ed7f0800000000000000
+      internalID: -585982505185317707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 226
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7880f3fd1ab5eb0800000000000000
+      internalID: -4730009003415271442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 225
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c42180f029bbb380800000000000000
+      internalID: -8954359882971011904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 225
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ddc7c22a49c0c0800000000000000
+      internalID: -4555028034867047423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 226
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e28ea6e30f55d80800000000000000
+      internalID: -8262433790469067124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c00dd48b31d250800000000000000
+      internalID: 5967616423072153889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 179
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ceaa325f8981d90800000000000000
+      internalID: -7126778231680996264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 179
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03272aeb8cfd73f0800000000000000
+      internalID: -901286672545144049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 179
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c1b154bae9ff50800000000000000
+      internalID: 6915816762989725203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 179
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b1e250a809bc00800000000000000
+      internalID: 916773483824920209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ac5c17d7f85b180800000000000000
+      internalID: -9100209703089747416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d14c39150c9070800000000000000
+      internalID: 8114366234558060248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 55
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9589e5c2064aeeb0800000000000000
+      internalID: -4689859084228655716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 55
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35be70ea21e255e0800000000000000
+      internalID: -1922226516662504134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_tree_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 55
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c009367ca888a4100800000000000000
+      internalID: 93036871946571788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

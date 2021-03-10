@@ -1,0 +1,1325 @@
+fileFormatVersion: 2
+guid: d0b19ddd3803172479750480df3f43b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2110011435049513774
+    second: Dwarf_Sprite_Sheet1.2v_0
+  - first:
+      213: 1526129046225279548
+    second: Dwarf_Sprite_Sheet1.2v_1
+  - first:
+      213: 2955941480438632697
+    second: Dwarf_Sprite_Sheet1.2v_2
+  - first:
+      213: -7040223276715767433
+    second: Dwarf_Sprite_Sheet1.2v_3
+  - first:
+      213: -1634142118702678783
+    second: Dwarf_Sprite_Sheet1.2v_4
+  - first:
+      213: 4893064296789734550
+    second: Dwarf_Sprite_Sheet1.2v_5
+  - first:
+      213: 8433975748607106663
+    second: Dwarf_Sprite_Sheet1.2v_6
+  - first:
+      213: 5166012583122183194
+    second: Dwarf_Sprite_Sheet1.2v_7
+  - first:
+      213: -1387790436589737803
+    second: Dwarf_Sprite_Sheet1.2v_8
+  - first:
+      213: 1097664046803428082
+    second: Dwarf_Sprite_Sheet1.2v_9
+  - first:
+      213: 2336925609039393957
+    second: Dwarf_Sprite_Sheet1.2v_10
+  - first:
+      213: 395130787304620478
+    second: Dwarf_Sprite_Sheet1.2v_11
+  - first:
+      213: 2360325404779568250
+    second: Dwarf_Sprite_Sheet1.2v_12
+  - first:
+      213: 8631894763534515125
+    second: Dwarf_Sprite_Sheet1.2v_13
+  - first:
+      213: 7440573058557236026
+    second: Dwarf_Sprite_Sheet1.2v_14
+  - first:
+      213: -3185370405409200837
+    second: Dwarf_Sprite_Sheet1.2v_15
+  - first:
+      213: -4307010081818152825
+    second: Dwarf_Sprite_Sheet1.2v_16
+  - first:
+      213: -1381358656646037354
+    second: Dwarf_Sprite_Sheet1.2v_17
+  - first:
+      213: 690018788484578162
+    second: Dwarf_Sprite_Sheet1.2v_18
+  - first:
+      213: 562768447187244673
+    second: Dwarf_Sprite_Sheet1.2v_19
+  - first:
+      213: -2320762132971095113
+    second: Dwarf_Sprite_Sheet1.2v_20
+  - first:
+      213: -119441117285289646
+    second: Dwarf_Sprite_Sheet1.2v_21
+  - first:
+      213: -1785534133943904117
+    second: Dwarf_Sprite_Sheet1.2v_22
+  - first:
+      213: 8020636473955615908
+    second: Dwarf_Sprite_Sheet1.2v_23
+  - first:
+      213: -4254673035737706703
+    second: Dwarf_Sprite_Sheet1.2v_24
+  - first:
+      213: -8541842456711669149
+    second: Dwarf_Sprite_Sheet1.2v_25
+  - first:
+      213: -5348225302088368333
+    second: Dwarf_Sprite_Sheet1.2v_26
+  - first:
+      213: -4601486499000046011
+    second: Dwarf_Sprite_Sheet1.2v_27
+  - first:
+      213: -1968736643255088471
+    second: Dwarf_Sprite_Sheet1.2v_28
+  - first:
+      213: -3629278108304143955
+    second: Dwarf_Sprite_Sheet1.2v_29
+  - first:
+      213: 8484682212041065749
+    second: Dwarf_Sprite_Sheet1.2v_30
+  - first:
+      213: -2386083514554990019
+    second: Dwarf_Sprite_Sheet1.2v_31
+  - first:
+      213: -6979038770872358328
+    second: Dwarf_Sprite_Sheet1.2v_32
+  - first:
+      213: 5327425370839320904
+    second: Dwarf_Sprite_Sheet1.2v_33
+  - first:
+      213: 142361523673744384
+    second: Dwarf_Sprite_Sheet1.2v_34
+  - first:
+      213: 5717340579028019581
+    second: Dwarf_Sprite_Sheet1.2v_35
+  - first:
+      213: -7976771654643837778
+    second: Dwarf_Sprite_Sheet1.2v_36
+  - first:
+      213: 2131170716955963169
+    second: Dwarf_Sprite_Sheet1.2v_37
+  - first:
+      213: -3479810413534088980
+    second: Dwarf_Sprite_Sheet1.2v_38
+  - first:
+      213: -2978070656076056219
+    second: Dwarf_Sprite_Sheet1.2v_39
+  - first:
+      213: 8205017824790762306
+    second: Dwarf_Sprite_Sheet1.2v_40
+  - first:
+      213: 684231834319387776
+    second: Dwarf_Sprite_Sheet1.2v_41
+  - first:
+      213: 7123655139012673558
+    second: Dwarf_Sprite_Sheet1.2v_42
+  - first:
+      213: -3526051167029219335
+    second: Dwarf_Sprite_Sheet1.2v_43
+  - first:
+      213: -2418577532948901273
+    second: Dwarf_Sprite_Sheet1.2v_44
+  - first:
+      213: 4866249526264341381
+    second: Dwarf_Sprite_Sheet1.2v_45
+  - first:
+      213: 7296446379884031325
+    second: Dwarf_Sprite_Sheet1.2v_46
+  - first:
+      213: -4930893413976830160
+    second: Dwarf_Sprite_Sheet1.2v_47
+  - first:
+      213: -7081404071384037950
+    second: Dwarf_Sprite_Sheet1.2v_48
+  - first:
+      213: -9003805367618557409
+    second: Dwarf_Sprite_Sheet1.2v_49
+  - first:
+      213: 5727082924169749205
+    second: Dwarf_Sprite_Sheet1.2v_50
+  - first:
+      213: 3155456609846052457
+    second: Dwarf_Sprite_Sheet1.2v_51
+  - first:
+      213: -2547990469793494533
+    second: Dwarf_Sprite_Sheet1.2v_52
+  - first:
+      213: 2606894924155631201
+    second: Dwarf_Sprite_Sheet1.2v_53
+  - first:
+      213: 7856566063996947555
+    second: Dwarf_Sprite_Sheet1.2v_54
+  - first:
+      213: 3434350781005219274
+    second: Dwarf_Sprite_Sheet1.2v_55
+  - first:
+      213: 2191023818412604257
+    second: Dwarf_Sprite_Sheet1.2v_56
+  - first:
+      213: -4910881946565969114
+    second: Dwarf_Sprite_Sheet1.2v_57
+  - first:
+      213: -2938632601055247704
+    second: Dwarf_Sprite_Sheet1.2v_58
+  - first:
+      213: -7440118391623219894
+    second: Dwarf_Sprite_Sheet1.2v_59
+  - first:
+      213: -4338999085937343955
+    second: Dwarf_Sprite_Sheet1.2v_60
+  - first:
+      213: 140173015837874806
+    second: Dwarf_Sprite_Sheet1.2v_61
+  - first:
+      213: -1750622584067641330
+    second: Dwarf_Sprite_Sheet1.2v_62
+  - first:
+      213: -8153859664205860323
+    second: Dwarf_Sprite_Sheet1.2v_63
+  - first:
+      213: -9067224339995839702
+    second: Dwarf_Sprite_Sheet1.2v_64
+  - first:
+      213: -606445230376883991
+    second: Dwarf_Sprite_Sheet1.2v_65
+  - first:
+      213: -5748720632079303240
+    second: Dwarf_Sprite_Sheet1.2v_66
+  - first:
+      213: 8980049019711637444
+    second: Dwarf_Sprite_Sheet1.2v_67
+  - first:
+      213: -680580362149308100
+    second: Dwarf_Sprite_Sheet1.2v_68
+  - first:
+      213: 6017819578515607230
+    second: Dwarf_Sprite_Sheet1.2v_69
+  - first:
+      213: -7705845355022309851
+    second: Dwarf_Sprite_Sheet1.2v_70
+  - first:
+      213: 134404092034612048
+    second: Dwarf_Sprite_Sheet1.2v_71
+  - first:
+      213: -3151814948619643042
+    second: Dwarf_Sprite_Sheet1.2v_72
+  - first:
+      213: -7118574653985178610
+    second: Dwarf_Sprite_Sheet1.2v_73
+  - first:
+      213: 7069206337058396893
+    second: Dwarf_Sprite_Sheet1.2v_74
+  - first:
+      213: 4209666698601637581
+    second: Dwarf_Sprite_Sheet1.2v_75
+  - first:
+      213: 5013654551357688664
+    second: Dwarf_Sprite_Sheet1.2v_76
+  - first:
+      213: 3741084521788603821
+    second: Dwarf_Sprite_Sheet1.2v_77
+  - first:
+      213: 7183727624938080388
+    second: Dwarf_Sprite_Sheet1.2v_78
+  - first:
+      213: -1305613764682549825
+    second: Dwarf_Sprite_Sheet1.2v_79
+  - first:
+      213: 7165796189396141449
+    second: Dwarf_Sprite_Sheet1.2v_80
+  - first:
+      213: 7637877205183626306
+    second: Dwarf_Sprite_Sheet1.2v_81
+  - first:
+      213: -5124709711372808766
+    second: Dwarf_Sprite_Sheet1.2v_82
+  - first:
+      213: -3832397181898649973
+    second: Dwarf_Sprite_Sheet1.2v_83
+  - first:
+      213: 9069429785840188323
+    second: Dwarf_Sprite_Sheet1.2v_84
+  - first:
+      213: 6596562123312805111
+    second: Dwarf_Sprite_Sheet1.2v_85
+  - first:
+      213: -5699894290318107833
+    second: Dwarf_Sprite_Sheet1.2v_86
+  - first:
+      213: 1543214451797520598
+    second: Dwarf_Sprite_Sheet1.2v_87
+  - first:
+      213: 98560106751464416
+    second: Dwarf_Sprite_Sheet1.2v_0
+  - first:
+      213: -7581996778386327947
+    second: Dwarf_Sprite_Sheet1.2v_1
+  - first:
+      213: -6597684984045219258
+    second: Dwarf_Sprite_Sheet1.2v_2
+  - first:
+      213: 7622375729067038035
+    second: Dwarf_Sprite_Sheet1.2v_3
+  - first:
+      213: 1109701819058695619
+    second: Dwarf_Sprite_Sheet1.2v_4
+  - first:
+      213: 2687970724499784150
+    second: Dwarf_Sprite_Sheet1.2v_5
+  - first:
+      213: 2737507934666387266
+    second: Dwarf_Sprite_Sheet1.2v_6
+  - first:
+      213: 5804272285740964477
+    second: Dwarf_Sprite_Sheet1.2v_7
+  - first:
+      213: 1426690760821690332
+    second: Dwarf_Sprite_Sheet1.2v_8
+  - first:
+      213: -8777110972000510158
+    second: Dwarf_Sprite_Sheet1.2v_9
+  - first:
+      213: -7953519624014679095
+    second: Dwarf_Sprite_Sheet1.2v_10
+  - first:
+      213: 8615891379488973684
+    second: Dwarf_Sprite_Sheet1.2v_11
+  - first:
+      213: -6376329069474936571
+    second: Dwarf_Sprite_Sheet1.2v_12
+  - first:
+      213: 4767581672174444492
+    second: Dwarf_Sprite_Sheet1.2v_13
+  - first:
+      213: 6394165446088117177
+    second: Dwarf_Sprite_Sheet1.2v_14
+  - first:
+      213: -6454086643513984319
+    second: Dwarf_Sprite_Sheet1.2v_15
+  - first:
+      213: 9010687136694223655
+    second: Dwarf_Sprite_Sheet1.2v_16
+  - first:
+      213: -2520778831990530845
+    second: Dwarf_Sprite_Sheet1.2v_17
+  - first:
+      213: -5377696541303974590
+    second: Dwarf_Sprite_Sheet1.2v_18
+  - first:
+      213: -1108743789181590580
+    second: Dwarf_Sprite_Sheet1.2v_19
+  - first:
+      213: 1977255136236629540
+    second: Dwarf_Sprite_Sheet1.2v_20
+  - first:
+      213: -5637966669653064910
+    second: Dwarf_Sprite_Sheet1.2v_21
+  - first:
+      213: -3822555714890841661
+    second: Dwarf_Sprite_Sheet1.2v_22
+  - first:
+      213: -1887102443682299143
+    second: Dwarf_Sprite_Sheet1.2v_23
+  - first:
+      213: -7122008350362619855
+    second: Dwarf_Sprite_Sheet1.2v_24
+  - first:
+      213: -982870310946803543
+    second: Dwarf_Sprite_Sheet1.2v_25
+  - first:
+      213: 9031831713606769381
+    second: Dwarf_Sprite_Sheet1.2v_26
+  - first:
+      213: 2232360705172926665
+    second: Dwarf_Sprite_Sheet1.2v_27
+  - first:
+      213: -5969993176232962815
+    second: Dwarf_Sprite_Sheet1.2v_28
+  - first:
+      213: 5031036537406769015
+    second: Dwarf_Sprite_Sheet1.2v_29
+  - first:
+      213: 7987423120861624686
+    second: Dwarf_Sprite_Sheet1.2v_30
+  - first:
+      213: -8456297742479003783
+    second: Dwarf_Sprite_Sheet1.2v_31
+  - first:
+      213: 8405118155870090384
+    second: Dwarf_Sprite_Sheet1.2v_32
+  - first:
+      213: 5998591884771081807
+    second: Dwarf_Sprite_Sheet1.2v_33
+  - first:
+      213: -7676422874880700068
+    second: Dwarf_Sprite_Sheet1.2v_34
+  - first:
+      213: 4881983282995121110
+    second: Dwarf_Sprite_Sheet1.2v_35
+  - first:
+      213: 3401919189078520157
+    second: Dwarf_Sprite_Sheet1.2v_36
+  - first:
+      213: 877789508607274820
+    second: Dwarf_Sprite_Sheet1.2v_37
+  - first:
+      213: 1605751840864302543
+    second: Dwarf_Sprite_Sheet1.2v_38
+  - first:
+      213: -7937237931132436357
+    second: Dwarf_Sprite_Sheet1.2v_39
+  - first:
+      213: 1320916326070631675
+    second: Dwarf_Sprite_Sheet1.2v_40
+  - first:
+      213: 2638845642472830162
+    second: Dwarf_Sprite_Sheet1.2v_41
+  - first:
+      213: 8567321054360406889
+    second: Dwarf_Sprite_Sheet1.2v_42
+  - first:
+      213: 1354131435599340558
+    second: Dwarf_Sprite_Sheet1.2v_43
+  - first:
+      213: -5148122242407567122
+    second: Dwarf_Sprite_Sheet1.2v_44
+  - first:
+      213: -5923407450249923501
+    second: Dwarf_Sprite_Sheet1.2v_45
+  - first:
+      213: -5298764373381674303
+    second: Dwarf_Sprite_Sheet1.2v_46
+  - first:
+      213: -7491703630228661973
+    second: Dwarf_Sprite_Sheet1.2v_47
+  - first:
+      213: 4616379789248833581
+    second: Dwarf_Sprite_Sheet1.2v_48
+  - first:
+      213: 2623015966004119160
+    second: Dwarf_Sprite_Sheet1.2v_49
+  - first:
+      213: 2935851676703565251
+    second: Dwarf_Sprite_Sheet1.2v_50
+  - first:
+      213: -1165188265238200833
+    second: Dwarf_Sprite_Sheet1.2v_51
+  - first:
+      213: 7358364964627607127
+    second: Dwarf_Sprite_Sheet1.2v_52
+  - first:
+      213: -772007319626445824
+    second: Dwarf_Sprite_Sheet1.2v_53
+  - first:
+      213: 6472837265928699995
+    second: Dwarf_Sprite_Sheet1.2v_54
+  - first:
+      213: -6480599716786745556
+    second: Dwarf_Sprite_Sheet1.2v_55
+  - first:
+      213: -5174415227493495443
+    second: Dwarf_Sprite_Sheet1.2v_56
+  - first:
+      213: 6606601728140400409
+    second: Dwarf_Sprite_Sheet1.2v_57
+  - first:
+      213: -6810442653040789581
+    second: Dwarf_Sprite_Sheet1.2v_58
+  - first:
+      213: 6303579552619403338
+    second: Dwarf_Sprite_Sheet1.2v_59
+  - first:
+      213: -7770450322697465400
+    second: Dwarf_Sprite_Sheet1.2v_60
+  - first:
+      213: -3162817475123552795
+    second: Dwarf_Sprite_Sheet1.2v_61
+  - first:
+      213: -5379551086041379753
+    second: Dwarf_Sprite_Sheet1.2v_62
+  - first:
+      213: 5556579821742428733
+    second: Dwarf_Sprite_Sheet1.2v_63
+  - first:
+      213: -7532033858811828460
+    second: Dwarf_Sprite_Sheet1.2v_64
+  - first:
+      213: -1080845227372068142
+    second: Dwarf_Sprite_Sheet1.2v_65
+  - first:
+      213: 3452292572626013345
+    second: Dwarf_Sprite_Sheet1.2v_66
+  - first:
+      213: -2649236182929319682
+    second: Dwarf_Sprite_Sheet1.2v_67
+  - first:
+      213: -1575049542738235411
+    second: Dwarf_Sprite_Sheet1.2v_68
+  - first:
+      213: 6220739116008823958
+    second: Dwarf_Sprite_Sheet1.2v_69
+  - first:
+      213: 3617283529314150725
+    second: Dwarf_Sprite_Sheet1.2v_70
+  - first:
+      213: -3018035293720260881
+    second: Dwarf_Sprite_Sheet1.2v_71
+  - first:
+      213: -4146375772936565633
+    second: Dwarf_Sprite_Sheet1.2v_72
+  - first:
+      213: -5363537295464239092
+    second: Dwarf_Sprite_Sheet1.2v_73
+  - first:
+      213: -8659554744601949276
+    second: Dwarf_Sprite_Sheet1.2v_74
+  - first:
+      213: 6689447283326316907
+    second: Dwarf_Sprite_Sheet1.2v_75
+  - first:
+      213: -3364520605234940580
+    second: Dwarf_Sprite_Sheet1.2v_76
+  - first:
+      213: 4894483164922360560
+    second: Dwarf_Sprite_Sheet1.2v_77
+  - first:
+      213: 6863501009821891909
+    second: Dwarf_Sprite_Sheet1.2v_78
+  - first:
+      213: -6384828179224059287
+    second: Dwarf_Sprite_Sheet1.2v_79
+  - first:
+      213: 8610297657506267245
+    second: Dwarf_Sprite_Sheet1.2v_80
+  - first:
+      213: -1827783103541101095
+    second: Dwarf_Sprite_Sheet1.2v_81
+  - first:
+      213: -7277809752987792053
+    second: Dwarf_Sprite_Sheet1.2v_82
+  - first:
+      213: -298401010887537001
+    second: Dwarf_Sprite_Sheet1.2v_83
+  - first:
+      213: -5662333868927278841
+    second: Dwarf_Sprite_Sheet1.2v_84
+  - first:
+      213: 170681697472261892
+    second: Dwarf_Sprite_Sheet1.2v_85
+  - first:
+      213: 8286879221645177306
+    second: Dwarf_Sprite_Sheet1.2v_86
+  - first:
+      213: -7873049892725928234
+    second: Dwarf_Sprite_Sheet1.2v_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 482
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e312f715e72e5100800000000000000
+      internalID: 98560106751464416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 482
+        width: 26
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767028e91657c690800000000000000
+      internalID: -7581996778386327947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 482
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6425e0a86705074a0800000000000000
+      internalID: -6597684984045219258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 482
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355999b275e18c960800000000000000
+      internalID: 7622375729067038035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 482
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd299bcce3766f00800000000000000
+      internalID: 1109701819058695619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 450
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18578e1279d4520800000000000000
+      internalID: 2687970724499784150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 451
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f6a9f66f49df520800000000000000
+      internalID: 2737507934666387266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1c3b34eaec8050800000000000000
+      internalID: 5804272285740964477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 449
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfcb1320bf9cc310800000000000000
+      internalID: 1426690760821690332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 449
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fd9b7f210713680800000000000000
+      internalID: -8777110972000510158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 450
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b180aa0c6f9190800000000000000
+      internalID: -7953519624014679095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 450
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4736ac98f8bc19770800000000000000
+      internalID: 8615891379488973684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 449
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50903fa9e7ab287a0800000000000000
+      internalID: -6376329069474936571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e63b9021f907b10800000000000000
+      internalID: 1977255136236629540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 386
+        width: 33
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23346d76f2be1c1b0800000000000000
+      internalID: -5637966669653064910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 387
+        width: 34
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1cacf74dd83fac0800000000000000
+      internalID: -3822555714890841661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 387
+        width: 32
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28b85635aafc5e0800000000000000
+      internalID: -1887102443682299143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 387
+        width: 31
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130354da32b892d90800000000000000
+      internalID: -7122008350362619855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 387
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0fcbfd8a42c52f0800000000000000
+      internalID: -982870310946803543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 353
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea93a04713875d70800000000000000
+      internalID: 9031831713606769381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 353
+        width: 29
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07f5adb30fafe10800000000000000
+      internalID: 2232360705172926665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 322
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d02b26d2562da0800000000000000
+      internalID: -5969993176232962815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 323
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77744204315d1d540800000000000000
+      internalID: 5031036537406769015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_30
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 327
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f2bd520709de60800000000000000
+      internalID: 7987423120861624686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 327
+        width: 26
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fe990b10235aa80800000000000000
+      internalID: -8456297742479003783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 322
+        width: 24
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b2d73e6af4a470800000000000000
+      internalID: 8405118155870090384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 24
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fe91848e88e2c00800000000000000
+      internalID: 877789508607274820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 258
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57528aac6c84610800000000000000
+      internalID: 1605751840864302543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 258
+        width: 27
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b704819a72449d190800000000000000
+      internalID: -7937237931132436357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_40
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 258
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc34796666d45210800000000000000
+      internalID: 1320916326070631675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 26
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d43ea071201f9420800000000000000
+      internalID: 2638845642472830162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 27
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b80e97b1d35e670800000000000000
+      internalID: 8567321054360406889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dwarf_Sprite_Sheet1.2v_43
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 257
+        width: 29
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04a61ebd57dac210800000000000000
+      internalID: 1354131435599340558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
