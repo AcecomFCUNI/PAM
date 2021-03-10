@@ -12,7 +12,7 @@
 </h2>
 
 Trabajo de investigación para el proceso de admisión de miembros (PAM) 2019-II de Acecom. 
-El archivo donde se desarrolla la presente investigación está en la ruta principal bajo el nombre de **main.ipynb**. 
+El archivo donde se desarrolla la presente investigación está en la ruta principal bajo el nombre de [**main.ipynb**](./main.ipynb). 
 
 * Nombre: [Angélica Sánchez Alcarraz](https://github.com/Angelica-17). 
 * Código: 20191505J.

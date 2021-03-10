@@ -12,19 +12,13 @@
 
 Material final de los postulantes y actuales miembros de ACECOM.
 
-## Actualización
+## 🆕 Actualización
+- 10/03/21: Material PAM 19-2 actualizado. Material PAM 20-2 añadido.
 - 16/10/20: Material añadido de Angélica.
 
-## 📖 Contenido
-El siguiente árbol muestra la estructura de los trabajos:
-```
-|- master/
-|   |- ANALISIS-DE-EXOPLANETAS-Y-CONDICIONES-HABITABLES/
-|       |- main.ipynb
-|       |- README.md
-```
-## Maintainers
-* Cristhian Wiki, github: [HiroForYou](https://github.com/HiroForYou)
 
-## Gracias especiales
+## 👨‍💻 Maintainers
+* Cristhian Wiki, Github: [HiroForYou](https://github.com/HiroForYou)
+
+## ❤️ Gracias especiales 
 Muchas gracias a todos los chicos que pusieron empeño en su trabajo. Esperando que en próximos PAM's también puedan colaborar como **mentores** de voluntariamente.
